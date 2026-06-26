@@ -1,0 +1,6 @@
+{
+  "name": "TrustShield AI",
+  "description": "Secure your device and files with privacy-first AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
